@@ -68,7 +68,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/vue-practice-project.git
+   git clone https://github.com/humzakhaled/coach-finder.git
    ```
 
 2. Install the dependencies:
