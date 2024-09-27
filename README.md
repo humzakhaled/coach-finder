@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project incorporates a wide array of core Vue features, state management with Vuex, routing, and real-time functionalities using Firebase. The application was built with the purpose of mastering Vue.js concepts such as `v-bind`, `v-model`, slots, events, filters, form handling, and making HTTP requests, along with authentication and deployment strategies.
+This project incorporates a wide array of core Vue features, state management with Vuex, routing, and real-time functionalities using Firebase. The application was built with the purpose of mastering Vue.js concepts such as data binding, slots, events, filters, form handling, and making HTTP requests, along with authentication and deployment strategies.
 
 ## Live Demo
 
-[Live Application](https://coach-finder-78532.web.app/auth)
+[Live Application](https://coach-finder-78532.web.app)
 
 ## Features
 
@@ -84,7 +84,7 @@ To run the project locally:
 
 ## Deployment
 
-The project is deployed using Firebase Hosting and is available at [this link](https://coach-finder-78532.web.app/auth).
+The project is deployed using Firebase Hosting and is available at [this link](https://coach-finder-78532.web.app).
 
 ## Contributions
 
