@@ -57,7 +57,7 @@ This project incorporates a wide array of core Vue features, state management wi
 - **Vuex**: State management
 - **Tailwind CSS**: Utility-first CSS framework
 - **Firebase**: Backend for authentication and hosting
-- **Axios**: For HTTP requests
+- **Fetch API**: For HTTP requests
 - **HTML5/CSS3**: Markup and styling
 - **JavaScript (ES6+)**: Core scripting
 
